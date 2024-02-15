@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03728892-388d-4ba7-be19-cda3fe19efad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/McPizzaAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/order_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/locators.py" afterDir="false" />
+    <list default="true" id="03728892-388d-4ba7-be19-cda3fe19efad" name="Changes" comment="Assignment First Draft">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +153,30 @@
       <option name="presentableId" value="Default" />
       <updated>1707934083137</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignment First Draft">
+      <option name="closed" value="true" />
+      <created>1708017325674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708017325674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment First Draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment First Draft" />
   </component>
 </project>
